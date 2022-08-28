@@ -12,7 +12,7 @@
     "watch": "./node_modules/typescript/bin/tsc -w"
   },
   "dependencies": {
-    "react": "16.8.6",
+    "react": "16.14.0",
     "react-native": "0.60.0-rc.0"
   },
   "devDependencies": {
